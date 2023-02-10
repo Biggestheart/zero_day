@@ -1,2 +1,1 @@
-#Requirements
- *This file is compulsory*
+This file is mandatory in projects
